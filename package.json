@@ -4,10 +4,11 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app"
+    "start": "node app",
+    "dev": "nodemon app"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aayush Bisen",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
