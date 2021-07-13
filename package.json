@@ -1,7 +1,7 @@
 {
   "name": "node-aws",
   "version": "1.0.0",
-  "description": "",
+  "description": "A super simple Express API deployed on AWS Elastic Beanstalk!",
   "main": "app.js",
   "scripts": {
     "start": "node app",
